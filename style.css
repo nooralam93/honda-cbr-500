@@ -1,0 +1,22 @@
+.top-banner {
+    background-color: #264653;
+    color: aliceblue;
+}
+
+.gray-scale {
+    filter: grayscale(100);
+}
+
+.footer-section {
+    
+    height: 250px !important;
+}
+ul>li>a{
+    color: aliceblue !important;
+}
+.client-discus {
+    color: #E76F51;
+}
+.btn{
+    background-color:#E76F51 ;
+}
